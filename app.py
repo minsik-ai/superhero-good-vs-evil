@@ -12,6 +12,8 @@ st.markdown('''
 
 Some superheroes are Good and some are Evil. How does this happen? What kind of internal distribution exists for Good 
 and Evil aligned superheroes? In this ML-powered Visualization we investigate characteristics of Good and Evil Superheroes.
+Further Visualizations will explore Gendered stereotypes that exist in Superhero World. You will also be able to explore the
+dataset interactively by creating your own Superhero and predicting whether it's good / evil or their gender.
 ''')
 
 if menu == "Good vs Evil Infographic":
