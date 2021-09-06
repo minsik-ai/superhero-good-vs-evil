@@ -26,9 +26,9 @@ Distribution of continuous variables are plotted using KDE and pair-wise plottin
 
 ### Interesting Insights
 1. Good Superheroes tend to be **better at Combat** than Bad or Neutral superheroes.
-2. Bad Superheroes tend to be **more Intelligent** than Good or Neutral Superheroes.
-3. Bad and Neutral Superheroes tend to be **more Durable** than Good Superheroes.
-4. Neutral Superheroes tend to have **more Power** than Good or Bad Superheroes.
+2. Bad and Neutral Superheroes tend to be **more Durable** than Good Superheroes.
+3. Bad Superheroes tend to be **more Intelligent** than Good or Neutral Superheroes.
+4. Neutral Superheroes tend to have **more Speed** than Good or Bad Superheroes.
     ''')
     st.image("./alignment_viz.png")
 
